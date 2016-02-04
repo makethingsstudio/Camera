@@ -1869,8 +1869,6 @@
                     if ( cycle % cols == cols - 1 ) {
                         tAppH = tAppH + tApp.height() - 1;
                     }
-                    console.log( 'tAppH', tAppH );
-                    console.log( 'tAppW', tAppW );
 
                     cycle++;
                 }
